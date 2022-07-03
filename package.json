@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Samir70/LBT-tax-calculator/issues"
   },
-  "homepage": "https://github.com/Samir70/LBT-tax-calculator#readme"
+  "homepage": "https://github.com/Samir70/LBT-tax-calculator#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
 }
