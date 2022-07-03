@@ -12,3 +12,6 @@ The calculator is limited to the following buyer:
  - At the end of the purchase the buyer will still only own one house i.e. they intent to sell their current home at the same date they buy the new one 
 
 My aim will be to get the same results as this page: [Property Transactions Calculator](https://revenue.scot/calculate-tax/calculate-property-transactions)
+
+## Tech
+The project is written in Node.js, using Jest for testing
