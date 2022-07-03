@@ -1,0 +1,24 @@
+{
+  "name": "lbt-tax-calculator",
+  "version": "1.0.0",
+  "description": "calculate stamp duty",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samir70/LBT-tax-calculator.git"
+  },
+  "keywords": [
+    "LBTT",
+    "stamp-duty",
+    "bjss"
+  ],
+  "author": "Samir70",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samir70/LBT-tax-calculator/issues"
+  },
+  "homepage": "https://github.com/Samir70/LBT-tax-calculator#readme"
+}
