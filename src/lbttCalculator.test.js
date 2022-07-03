@@ -12,13 +12,10 @@ const tests = [
     // { cost: , tax:  },
 ]
 
-describe('Tests were naive calculation gives whole number of pounds', () => {
+describe('Tests where naive calculation gives whole number of pounds', () => {
     tests.forEach(t => {
         test(`Find the tax for a house costing £${t.cost}`, () => {
-            expect(lbttCalculator(t.cost)).toBe(t.tax)
+            expect(lbttCalculator(t.cost)).toEqual(t.tax)
         });
-        // test('Find the tax for a house costing £130,000', () => {
-        //     expect(lbttCalculator(130000)).toBe(0)
-        // });
     })
-})
+});
